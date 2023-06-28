@@ -3,6 +3,9 @@
 4 műveletett lehet végrehajtani:
 
 -összeadas: +
+
 -kívonás: -
+
 -szorzás: *
+
 -osztás: /
